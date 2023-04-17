@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Akahuhu3001.moc3",
+		"Textures": [
+			"Akahuhu3001.8192/texture_00.png",
+			"Akahuhu3001.8192/texture_01.png"
+		],
+		"Physics": "Akahuhu3001.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
